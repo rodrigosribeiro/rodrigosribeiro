@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 Rodrigo Simões Ribeiro
 
+Entusiasta das tecnologias de desenvolvimento. Desenvolvendo projetos com PHP, NodeJS, JS, HTML, MySQL, MongoDB e afins...
+
 - 🔭 Estou trabalhando atualmente no Inmetro
-- 🌱 Estou apredendo sobre ReactJS
+- 🌱 Estou aprendendo sobre ReactJS
 - 👯 Interessado em desenvolvimento web, back-end e front-end
 - 💬 Posso contribuir com PHP, JavaScript, NodeJS, MySQL
 - https://www.linkedin.com/in/rodrigo-sim%C3%B5es-ribeiro-080b8692/
